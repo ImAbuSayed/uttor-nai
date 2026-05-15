@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Uttor Nai
+
+This log tracks the cryptographic history and versioning for the song **Uttor Nai** (uttor-nai).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T03:57:35.956739 | `v1` | `981a2b0c1f0d09ba7953ae58ec730425d6d3686ee0df9869e8454328c8596bf2` | `3dc6716159cddfd1f042fd71e80a39ab877985a758f97f82937d67c6bf2026fa` | `2026-05-16_uttor-nai-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
