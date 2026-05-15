@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/uttor-nai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Uttor Nai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/uttor-nai/) |
+| **Get License** | [Request Licensing for Uttor Nai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/uttor-nai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকার এই রাতের বুকে তুমি আমার আলো
+> তোমার ওই মাতাল ছোঁয়ায় বেসেছি যে ভালো
+> শিহরণ জাগে আজ আমার এই বুকে
+> মিশে যেতে চাই আমি তোমার ওই সুখে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
